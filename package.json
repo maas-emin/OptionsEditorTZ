@@ -20,7 +20,9 @@
     "start": "react-scripts start",
     "build": "react-scripts build",
     "test": "react-scripts test",
-    "eject": "react-scripts eject"
+    "eject": "react-scripts eject",
+    "dev": "json-server -w src/db.json --port 3004",
+    "startServer": "json-server src/db.json"
   },
   "eslintConfig": {
     "extends": [

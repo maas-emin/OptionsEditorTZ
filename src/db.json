@@ -1,0 +1,92 @@
+{
+  "params": [
+    {
+      "name": "Назанчение",
+      "id": "1"
+    },
+    {
+      "name": "Длина",
+      "id": "2"
+    },
+    {
+      "id": "5250",
+      "paramId": "0.6656970410817138",
+      "name": "Ширина",
+      "type": "string"
+    },
+    {
+      "id": "6812",
+      "paramId": "0.7153442193858341",
+      "name": "Цвет",
+      "type": "string"
+    },
+    {
+      "id": "8df0",
+      "paramId": "0.1618323287395933",
+      "name": "Вкус",
+      "type": "string"
+    }
+  ],
+  "model": [
+    {
+      "id": "3669",
+      "paramId": 2,
+      "value": "z"
+    },
+    {
+      "value": "ggggg",
+      "id": "4dd7"
+    },
+    {
+      "id": "a559",
+      "paramId": 2,
+      "value": "z"
+    },
+    {
+      "id": "5533",
+      "paramId": 2,
+      "value": "kkk"
+    },
+    {
+      "value": "ssssss",
+      "id": "9d8e"
+    },
+    {
+      "id": "8252",
+      "value": "вывфыв",
+      "paramId": "2"
+    },
+    {
+      "id": "0203",
+      "value": "фывфыв",
+      "paramId": "5250"
+    },
+    {
+      "id": "20c2",
+      "value": "фывфыв",
+      "paramId": "6812"
+    },
+    {
+      "id": "af67",
+      "value": "фывфыв",
+      "paramId": "8df0"
+    },
+    {
+      "value": "asdasdasdsss",
+      "id": "08c6"
+    },
+    {
+      "value": "ssss",
+      "id": "c202"
+    },
+    {
+      "value": "dsss",
+      "id": "5fbe"
+    },
+    {
+      "id": "ca4d",
+      "value": "qweqweqwe",
+      "paramId": "1"
+    }
+  ]
+}

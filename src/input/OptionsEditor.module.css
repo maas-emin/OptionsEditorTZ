@@ -1,0 +1,101 @@
+.inputs {
+  width: 400px;
+  margin: 0 auto;
+}
+
+.block {
+  display: flex;
+}
+
+.params_block {
+  width: 100px;
+}
+
+.param {
+  font-size: 20px;
+  border-bottom: 2px solid red;
+}
+
+.param_name {
+  width: 100px;
+}
+
+.inputContainer {
+}
+
+.input_param {
+  border-radius: 5px;
+}
+
+.button_param {
+  /* color: red; */
+  /* border-bottom: 1px solid red; */
+  font-size: 14px;
+  border-radius: 4px;
+  color: rgb(0, 163, 163);
+}
+
+.button_correction {
+  font-size: 14px;
+  color: rgb(213, 88, 88);
+}
+
+.button_delete {
+  font-size: 14px;
+  color: rgb(49, 96, 51);
+}
+
+.model {
+}
+
+.correction_input {
+  font-size: 14px;
+}
+
+.button_correction {
+  font-size: 14px;
+}
+
+.param_input {
+  font-size: 14px;
+}
+
+.input {
+  font-size: 14px;
+}
+
+.model_block {
+  display: flex;
+  justify-content: space-between;
+  margin-top: 10px;
+}
+
+.model_value {
+  width: 200px;
+  /* border-bottom: 1px solid red; */
+}
+/* second */
+
+.container {
+  margin-top: 100px;
+  display: flex;
+  flex-direction: column;
+  justify-content: center;
+  align-items: center;
+}
+
+.inputContainer_value {
+  border-radius: 6px;
+}
+
+.inputContainer {
+  border-radius: 6px;
+}
+
+.content {
+  display: flex;
+  width: 700px;
+  justify-content: space-between;
+  margin-top: 30px;
+  border-bottom: 1px solid black;
+}
