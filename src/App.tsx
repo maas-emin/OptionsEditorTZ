@@ -1,4 +1,4 @@
-import OptionsEditor from './input/OptionsEditor'
+import OptionsEditor from './OptionsEditor/OptionsEditor'
 
 import './App.css'
 
